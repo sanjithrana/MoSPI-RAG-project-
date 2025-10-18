@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pdfplumber
+camelot-py[cv]
+pandas
+pyarrow
+sqlalchemy
+sentence-transformers
+faiss-cpu
+streamlit
+pytest
+python-dotenv
+tqdm
